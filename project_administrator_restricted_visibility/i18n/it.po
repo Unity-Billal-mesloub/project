@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Unity Billal mesloub Server 13.0\n"
 "Report-Msgid-Bugs-To: \n"
 "PO-Revision-Date: 2023-06-19 08:08+0000\n"
-"Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
+"Last-Translator: 
 "Language-Team: none\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
